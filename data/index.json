@@ -1,0 +1,70 @@
+{
+  "grocery": [
+    {
+      "id": "0e5a",
+      "title": "Bread_new",
+      "amount": "42",
+      "isBought": false
+    },
+    {
+      "id": "9937",
+      "title": "Milk",
+      "amount": "2",
+      "isBought": false
+    },
+    {
+      "id": "2272",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": true
+    },
+    {
+      "id": "bc4f",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": true
+    },
+    {
+      "id": "63de",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": true
+    },
+    {
+      "id": "05dd",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": true
+    },
+    {
+      "id": "5b9a",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": true
+    },
+    {
+      "id": "09c3",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": false
+    },
+    {
+      "id": "19c5",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": false
+    },
+    {
+      "id": "ac33",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": false
+    },
+    {
+      "id": "5a7d",
+      "title": "Adasdd",
+      "amount": "23",
+      "isBought": true
+    }
+  ]
+}
